@@ -86,6 +86,6 @@ The methods here can be adapted to other regression problems where continuous ou
 ---
 
 ## Author
-Ifesinachi Aroh
-Data Scientist
+Ifesinachi Aroh\
+Data Scientist\
 Auburn University
